@@ -1,0 +1,4 @@
+artist:picasso.nationallity:spanish painter.age:92 years.birthplace:spain.style of art:Cubism.famous pieces:guernica,harlequin,The Old Guitarist
+artsit:Shahzia Sikander.nationallity:Pakistani-america.age:52 years.birthplace:Lahore.style of art:Visual and Contemporary art.famous pieces:The Perennial Gaze,Apparatus of Power
+artist:hira.nationallity:pakistan.age:21.birthplace:pakistan.style of art:painting.famous pieces:1234
+artist:hira.nationallity:pakistan.age:21.birthplace:pakistan.style of art:painting.famous pieces:9876

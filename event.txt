@@ -1,0 +1,4 @@
+date:04-12-2020.no costumers:60.number of pieces:25.sold:20.response:good
+date:19-04-2021.no costumers:50.number of pieces:15.sold:13.response:satisfactory
+date:16-02-2021.no costumers:17.number of pieces:12.sold:10.response:good
+date:15-04-2021.no costumers:100.number of pieces:17.sold:16.response:good
